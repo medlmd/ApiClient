@@ -17,7 +17,7 @@
     "react-inputs-validation": "^4.3.3",
     "react-material-ui-form-validator": "^2.0.10",
     "react-media": "^1.10.0",
-    "react-native": "^0.61.5",
+    "react-native": "^0.62.3",
     "react-native-form-validator": "^0.3.2",
     "react-native-material-textfield": "^0.16.1",
     "react-number-format": "^4.3.1",
