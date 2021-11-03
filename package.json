@@ -30,7 +30,7 @@
     "react-to-print": "^2.5.1",
     "reactstrap": "^8.4.1",
     "styled-components": "^5.0.0",
-    "validator": "^12.1.0",
+    "validator": "^13.7.0",
     "zxcvbn": "^4.4.2"
   },
   "scripts": {
